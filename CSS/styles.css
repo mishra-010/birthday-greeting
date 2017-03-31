@@ -1,0 +1,77 @@
+.container{
+  height: 570px;
+  width: 400px;
+  border: 2px solid maroon;
+  background-color: skyblue;
+}
+.square{
+  height: 100px;
+  width: 450px;
+  border: 1.5px solid maroon;
+  border-radius: 0px 0px 30px 25px;
+  display: flex;
+  justify-content: center;
+}
+#para{
+  margin-top: 80px;
+}
+#para2{
+  margin-top: 100px;
+  margin-left: 10px;
+  font-style: italic;
+}
+.mainpage{
+  height: 300px;
+  width: 450px;
+  border: 3px solid maroon;
+  background-color: skyblue;
+}
+.photo5{
+  display:flex;
+  justify-content: center;
+}
+#photo1{
+  height: 200px;
+  width: 350px;
+  border: 3px solid maroon;
+}
+#photoa{
+  height: 100px;
+  width: 150px;
+  border: 3px solid maroon;
+}
+.photo{
+  display: flex;
+  justify-content: center;
+}
+.red-text{
+  color: midnightblue;
+  text-decoration: underline;
+}
+h1{
+  font-size: 25px;
+  font-family: cursive;
+}
+.maroon-text{
+  color: maroon;
+  font-family: inherit;
+}
+p1{
+  font-size: 25px;
+  font-family: fantasy;
+}
+p3{
+  font-size: 17px;
+  font-family:arial bold;
+  color: maroon;
+}
+p4{
+  font-size: 15px;
+  font-family:arial ;
+  color: maroon;
+}
+p7{
+  font-size: 10px;
+  font-family:arial ;
+  color: black;
+}
